@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="About/Preview.png" alt="Humanoid Alien Races — Превью" width="640">
+
 # 👽 Humanoid Alien Races — Русификатор
 
 **Полный русский перевод мода [Humanoid Alien Races](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) для RimWorld**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Humanoid-Alien-Races-Ru)
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?style=flat-square&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3616740991) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Humanoid-Alien-Races-Ru)
 
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
@@ -93,6 +95,7 @@ Humanoid-Alien-Races-Ru/
 ├── About/
 │   ├── About.xml            # Метаданные мода
 │   ├── ModIcon.png          # Иконка мода
+│   ├── Preview.png          # Превью
 │   └── PublishedFileId.txt  # ID в Steam Workshop
 ├── 1.6/
 │   ├── HAR/                 # Базовый контент HAR
