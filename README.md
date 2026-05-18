@@ -4,6 +4,8 @@
 
 **Полный русский перевод мода [Humanoid Alien Races](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) для RimWorld**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Humanoid-Alien-Races-Ru)
+
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
 [![Лицензия](https://img.shields.io/badge/Лицензия-MIT-green?style=flat-square)](LICENSE)
@@ -21,7 +23,7 @@
 ## ⚙️ Установка
 
 ### Вариант 1: Через Steam Workshop
-Подписка на русификатор в Steam Workshop автоматически загрузит и обновит перевод.
+Подписка на русификатор в [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3616740991) автоматически загрузит и обновит перевод.
 
 ### Вариант 2: Вручную
 1. Скачайте [последний релиз](../../releases) или нажмите **Code → Download ZIP**
@@ -33,8 +35,8 @@
 
 | Мод | Ссылка | Примечание |
 |-----|--------|------------|
-| **Humanoid Alien Races** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) | Обязательный |
-| **Базовый русификатор RimWorld** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) | Обязательный |
+| **Humanoid Alien Races** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762) | Обязательный |
+| **Базовый русификатор RimWorld** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) / [GitHub](https://github.com/Elengal/RWRM) | Обязательный |
 | **Ideology (DLC)** | [Steam](https://store.steampowered.com/app/1392840/RimWorld__Ideology/) | Для мемов и принципов |
 | **Odyssey (DLC)** | [Steam](https://store.steampowered.com/app/2958470/RimWorld__Odyssey/) | Для контента Odyssey |
 
