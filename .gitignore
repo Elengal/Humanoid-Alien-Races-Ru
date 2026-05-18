@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# RimWorld runtime
+Source/
+Assemblies/
+Defs/
+Textures/
+Sounds/
+
+# Build artifacts
+*.log
+obj/
+bin/
