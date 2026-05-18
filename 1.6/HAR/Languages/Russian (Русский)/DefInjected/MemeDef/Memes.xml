@@ -51,13 +51,13 @@
   <!-- EN: xenophobia -->
   <HAR_Xenophobia.label>ксенофобия</HAR_Xenophobia.label>
   <!-- EN: Suffer not the alien to live, their mere existence is a threat to ours. Species of such are better as our servants or our sustenance. -->
-  <HAR_Xenophobia.description>Не позволяйте инопланетянам жить, само их существование — угроза нашему. Такие виды лучше подходят как наши слуги или пища.</HAR_Xenophobia.description>
+  <HAR_Xenophobia.description>Не позволяйте ксеносам жить, само их существование — угроза нашему существованию. Такие виды лучше подходят как наши слуги или пища.</HAR_Xenophobia.description>
   
   <HAR_Xenophobia.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Xenophobia)->[deity0_name] создал нас, совершенное воплощение [deity0_possessive] божественного образа.</li>
     <li>episode(uses=1,tag=meme_Xenophobia)->Остальные творения [deity0_name] были созданы лишь как инструменты для нас, такова [deity0_objective] воля, чтобы мы обращались с ними соответственно.</li>
     <li>intro(tag=meme_Xenophobia)->На [place_summary] [place_name] [memberNamePlural] нашли слова [deity0_name], ставящие нас на вершину творения.</li>
-    <li>conflict(tag=meme_Xenophobia)->Завидуя нашему божественному статусу, инопланетный [foeLeader] попытался завоевать общину [memberNamePlural], и [foeLeader_possessive] [foeSoldiers] поработили наших людей.</li>
+    <li>conflict(tag=meme_Xenophobia)->Завидуя нашему божественному статусу, ксеносный [foeLeader] попытался завоевать общину [memberNamePlural], и [foeLeader_possessive] [foeSoldiers] поработили наших людей.</li>
     <li>founderJoin(tag=meme_Xenophobia)->Праведный [place_job] по имени [founderName] собрал людей вместе, чтобы сражаться с [foeSoldiers].</li>
     <li>victory(tag=meme_Xenophobia)->[founderName] повёл [memberNamePlural] в славный бой, где они уничтожили [foeSoldiers] и освободили своих людей.</li>
     <li>setup(tag=meme_Xenophobia)->[founderName] был религиозным лидером в ранние дни колонизации. Видя новые виды, с которыми столкнулся [founder_possessive] народ, [founder_pronoun] основал новое движение, посвящённое чистоте.</li>
@@ -68,7 +68,7 @@
     <li>archistBasis(tag=meme_Xenophobia)->Только тот, кто помогает избавить галактику от ксеносов, сможет вознестись.</li>
     <li>archistFact(tag=meme_Xenophobia)->Богоподобный ИИ благоволит к нам.</li>
     <li>archistProphecy(tag=meme_Xenophobia)->[inTheEnd] мы будем стоять одни, как единственные хозяева Вселенной.</li>
-    <li>animistBasis(tag=meme_Xenophobia)->Духи инопланетных тварей — наши враги.</li>
+    <li>animistBasis(tag=meme_Xenophobia)->Духи ксеносных тварей — наши враги.</li>
     <li>animistProphecy(tag=meme_Xenophobia)->Когда все ксеносы будут уничтожены, духи наградят нас.</li>
   </HAR_Xenophobia.descriptionMaker.rules.rulesStrings>
   
@@ -76,7 +76,7 @@
     <li>memeAdjective->чистый</li>
     <li>memeAdjective->закрытый</li>
     <li>memeAdjective->отвергающий</li>
-    <li>memeAdjective->ненавидящий инопланетян</li>
+    <li>memeAdjective->ненавидящий ксеносов</li>
     <li>memeLeaderAdjective->очищающий</li>
     <li>memeConcept->чистота</li>
     <li>memeConcept->изоляция</li>
