@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- ========== AteAlienMeat ========== -->
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.label>
+  <!-- EN: I had to eat a sapient alien's meat. This is an offense against everything I believe. -->
+  <HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.description>Мне пришлось съесть мясо разумного инопланетянина. Это оскорбление всего, во что я верю.</HAR_AteAlienMeat_Abhorrent.stages.ate_alien_meat.description>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_Know_Abhorrent.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_Know_Abhorrent.stages.ate_alien_meat.label>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.label>
+  <!-- EN: I had to eat alien meat. I believe such actions are wrong. -->
+  <HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.description>Мне пришлось съесть мясо инопланетянина. Я считаю такие действия неправильными.</HAR_AteAlienMeat_Disapproved.stages.ate_alien_meat.description>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_Know_Disapproved.stages.ate_alien_meat.label>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.label>
+  <!-- EN: I ate alien meat. It makes me feel noble and strong. -->
+  <HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>Я {PAWN_gender ? съел : съела} мясо инопланетянина. Это заставляет меня чувствовать себя благородным и сильным.</HAR_AteAlienMeat_Preferred.stages.ate_alien_meat.description>
+  
+  <!-- EN: want alien meat -->
+  <HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.label>хочу мясо инопланетянина</HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.label>
+  <!-- EN: It's been too long since I consumed any alien meat. It feels wrong. -->
+  <HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.description>Слишком долго я не {PAWN_gender ? ел : ела} мясо инопланетянина. Это неправильно.</HAR_NoRecentAlienMeat_Preferred.stages.want_alien_meat.description>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>{PAWN_gender ? съел : съела} мясо инопланетянина</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.label>
+  <!-- EN: I ate alien meat, as every real person should. -->
+  <HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>Я {PAWN_gender ? съел : съела} мясо инопланетянина, как и {PAWN_gender ? должен : должна} каждый настоящий человек.</HAR_AteAlienMeat_RequiredStrong.stages.ate_alien_meat.description>
+  
+  <!-- EN: want alien meat -->
+  <HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.label>хочу мясо инопланетянина</HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.label>
+  <!-- EN: It's been far too long since I consumed alien flesh. I should have eaten by now. -->
+  <HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.description>Слишком давно я не {PAWN_gender ? ел : ела} плоть инопланетянина. Я уже {PAWN_gender ? должен был : должна была} поесть.</HAR_NoRecentAlienMeat_RequiredStrong.stages.want_alien_meat.description>
+  
+  <!-- EN: ate non-alien food -->
+  <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>{PAWN_gender ? съел : съела} не инопланетную еду</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.label>
+  <!-- EN: I had to eat food that wasn't taken from a sapient alien. My beliefs strictly forbid such things. -->
+  <HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>Мне пришлось есть пищу, которая не была взята у разумного инопланетянина. Мои убеждения строго запрещают такое.</HAR_AteNonAlienFood_Horrible.stages.ate_nonalien_food.description>
+  
+  <!-- EN: ate non-alien food -->
+  <HAR_AteNonAlienFood_Know_Horrible.stages.ate_nonalien_food.label>{PAWN_gender ? съел : съела} не инопланетную еду</HAR_AteNonAlienFood_Know_Horrible.stages.ate_nonalien_food.label>
+  
+  <!-- ========== ButcheredAlien ========== -->
+  
+  <!-- EN: I butchered an alien -->
+  <HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.label>я {PAWN_gender ? разделал : разделала} инопланетянина</HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.label>
+  <!-- EN: I butchered a sapient alien. This is an offense against everything I believe. -->
+  <HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.description>Я {PAWN_gender ? разделал : разделала} разумного инопланетянина. Это оскорбление всего, во что я верю.</HAR_ButcheredAlien_Abhorrent.stages.I_butchered_an_alien.description>
+  
+  <!-- EN: we butchered an alien -->
+  <HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.label>мы разделали инопланетянина</HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.label>
+  <!-- EN: One of us butchered a sapient alien. This is an offense against everything I believe. -->
+  <HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.description>Кто-то из нас {OTHERPAWN_gender ? разделал : разделала} разумного инопланетянина. Это оскорбление всего, во что я верю.</HAR_ButcheredAlien_Know_Abhorrent.stages.we_butchered_an_alien.description>
+  
+  <!-- EN: butchered an alien -->
+  <HAR_ButcheredAlien_Know_Abhorrent_Opinion.stages.butchered_an_alien.label>{OTHERPAWN_gender ? разделал : разделала} инопланетянина</HAR_ButcheredAlien_Know_Abhorrent_Opinion.stages.butchered_an_alien.label>
+  
+  <!-- EN: I butchered an alien -->
+  <HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.label>я {PAWN_gender ? разделал : разделала} инопланетянина</HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.label>
+  <!-- EN: I butchered a sapient alien. I believe such actions are wrong. -->
+  <HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.description>Я {PAWN_gender ? разделал : разделала} разумного инопланетянина. Я считаю такие действия неправильными.</HAR_ButcheredAlien_Disapproved.stages.I_butchered_an_alien.description>
+  
+  <!-- EN: we butchered an alien -->
+  <HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.label>мы разделали инопланетянина</HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.label>
+  <!-- EN: One of us butchered a sapient alien. I believe such actions are wrong. -->
+  <HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.description>Кто-то из нас {OTHERPAWN_gender ? разделал : разделала} разумного инопланетянина. Я считаю такие действия неправильными.</HAR_ButcheredAlien_Know_Disapproved.stages.we_butchered_an_alien.description>
+  
+  <!-- EN: butchered an alien -->
+  <HAR_ButcheredAlien_Know_Disapproved_Opinion.stages.butchered_an_alien.label>{OTHERPAWN_gender ? разделал : разделала} инопланетянина</HAR_ButcheredAlien_Know_Disapproved_Opinion.stages.butchered_an_alien.label>
+  
+  <!-- ========== AlienDating ========== -->
+  
+  <!-- EN: dated an alien -->
+  <HAR_AlienDating_Horrible.stages.dated_an_alien.label>{PAWN_gender ? встречался : встречалась} с инопланетянином</HAR_AlienDating_Horrible.stages.dated_an_alien.label>
+  <!-- EN: How could I bring myself to date an alien? I feel disgusted with myself. -->
+  <HAR_AlienDating_Horrible.stages.dated_an_alien.description>Как я {PAWN_gender ? мог : могла} заставить себя встречаться с инопланетянином? Мне противно от самого себя.</HAR_AlienDating_Horrible.stages.dated_an_alien.description>
+  
+  <!-- EN: dated an alien -->
+  <HAR_AlienDating_Know_Horrible.stages.dated_an_alien.label>{OTHERPAWN_gender ? встречался : встречалась} с инопланетянином</HAR_AlienDating_Know_Horrible.stages.dated_an_alien.label>
+  
+  <!-- EN: dated an alien -->
+  <HAR_AlienDating_Know_Honorable.stages.dated_an_alien.label>{OTHERPAWN_gender ? встречался : встречалась} с инопланетянином</HAR_AlienDating_Know_Honorable.stages.dated_an_alien.label>
+  
+  <!-- ========== AlienRaces ========== -->
+  
+  <!-- EN: disgusting aliens! -->
+  <HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.label>отвратительные инопланетяне!</HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.label>
+  <!-- EN: Other races are absolutely repulsive and I can't stand them! -->
+  <HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.description>Другие расы абсолютно отвратительны, и я не могу их терпеть!</HAR_AlienRaces_Abhorrent.stages.disgusting_aliens.description>
+  
+  <!-- EN: disgusting alien! -->
+  <HAR_AlienRaces_Abhorrent_Social.stages.disgusting_alien.label>отвратительный инопланетянин!</HAR_AlienRaces_Abhorrent_Social.stages.disgusting_alien.label>
+  
+  <!-- EN: distrust for xenos -->
+  <HAR_AlienRaces_Horrible_Social.stages.distrust_for_xenos.label>недоверие к ксеносам</HAR_AlienRaces_Horrible_Social.stages.distrust_for_xenos.label>
+  
+  <!-- EN: respect for xenos -->
+  <HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>уважение к ксеносам</HAR_AlienRaces_Respected_Social.stages.respect_for_xenos.label>
+  
+  <!-- EN: amazing aliens! -->
+  <HAR_AlienRaces_Exalted.stages.amazing_aliens.label>удивительные инопланетяне!</HAR_AlienRaces_Exalted.stages.amazing_aliens.label>
+  <!-- EN: I can't believe I'm in the company of other races! -->
+  <HAR_AlienRaces_Exalted.stages.amazing_aliens.description>Не могу поверить, что я в компании других рас!</HAR_AlienRaces_Exalted.stages.amazing_aliens.description>
+  
+  <!-- EN: amazing alien! -->
+  <HAR_AlienRaces_Exalted_Social.stages.amazing_alien.label>удивительный инопланетянин!</HAR_AlienRaces_Exalted_Social.stages.amazing_alien.label>
+  
+  <!-- ========== Alien Slavery ========== -->
+  
+  <!-- EN: alien slaves in colony -->
+  <HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.label>рабы-инопланетяне в колонии</HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <!-- EN: We're keeping alien slaves. It's barbaric. -->
+  <HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов-инопланетян. Это варварство.</HAR_Alien_Slavery_Abhorrent_SlavesInColony.stages.alien_slaves_in_colony.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Know_Abhorrent.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Know_Abhorrent.stages.sold_alien_slave.label>
+  
+  <!-- EN: alien slave sold -->
+  <HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.label>раб-инопланетянин продан</HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.label>
+  <!-- EN: We sold an alien into slavery. It was an abhorrent, barbaric act. -->
+  <HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.description>Мы продали инопланетянина в рабство. Это был отвратительный, варварский поступок.</HAR_Alien_SoldSlave_Know_Abhorrent_Mood.stages.alien_slave_sold.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Know_Abhorrent.stages.enslaved_alien_prisoner.label>поработили заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Know_Abhorrent.stages.enslaved_alien_prisoner.label>
+  
+  <!-- EN: alien slaves in colony -->
+  <HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.label>рабы-инопланетяне в колонии</HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <!-- EN: We're keeping alien slaves. It's wrong. -->
+  <HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов-инопланетян. Это неправильно.</HAR_Alien_Slavery_Horrible_SlavesInColony.stages.alien_slaves_in_colony.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.label>
+  <!-- EN: I sold an alien into slavery. I'm not sure I can forgive myself. -->
+  <HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.description>Я {PAWN_gender ? продал : продала} инопланетянина в рабство. Не уверен{PAWN_gender ?  : а}, что смогу себя простить.</HAR_Alien_SoldSlave_Horrible.stages.sold_alien_slave.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>{OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.label>
+  <!-- EN: I forced an alien into slavery. How can I justify that? -->
+  <HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>Я {PAWN_gender ? заставил : заставила} инопланетянина стать рабом. Как я могу это оправдать?</HAR_Alien_EnslavedPrisoner_Horrible.stages.enslaved_alien_prisoner.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Know_Horrible.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Know_Horrible.stages.sold_alien_slave.label>
+  
+  <!-- EN: alien slave sold -->
+  <HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.label>раб-инопланетянин продан</HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.label>
+  <!-- EN: We sold an alien into slavery. What a horrible thing to do. -->
+  <HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.description>Мы продали инопланетянина в рабство. Какой ужасный поступок.</HAR_Alien_SoldSlave_Know_Horrible_Mood.stages.alien_slave_sold.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible.stages.enslaved_alien_prisoner.label>поработили заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Know_Horrible.stages.enslaved_alien_prisoner.label>
+  
+  <!-- EN: alien prisoner enslaved -->
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.label>заключённый-инопланетянин порабощён</HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.label>
+  <!-- EN: We enslaved an alien. What a horrible thing to do to another sapient being. -->
+  <HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.description>Мы поработили инопланетянина. Какой ужасный поступок по отношению к другому разумному существу.</HAR_Alien_EnslavedPrisoner_Know_Horrible_Mood.stages.alien_prisoner_enslaved.description>
+  
+  <!-- EN: alien slaves in colony -->
+  <HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.label>рабы-инопланетяне в колонии</HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <!-- EN: We're keeping alien slaves. Even if it's necessary, it's distasteful and I wish we wouldn't. -->
+  <HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.description>Мы держим рабов-инопланетян. Даже если это необходимо, это отвратительно, и я {PAWN_gender ? хотел : хотела} бы, чтобы мы этого не делали.</HAR_Alien_Slavery_Disapproved_SlavesInColony.stages.alien_slaves_in_colony.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.label>
+  <!-- EN: I sold an alien into slavery. I hope nothing terrible happens to them. -->
+  <HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.description>Я {PAWN_gender ? продал : продала} инопланетянина в рабство. Надеюсь, с ним ничего ужасного не случится.</HAR_Alien_SoldSlave_Disapproved.stages.sold_alien_slave.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>{OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.label>
+  <!-- EN: I enslaved an alien. It's hard to justify such actions. -->
+  <HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>Я {PAWN_gender ? поработил : поработила} инопланетянина. Трудно оправдать такие действия.</HAR_Alien_EnslavedPrisoner_Disapproved.stages.enslaved_alien_prisoner.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Know_Disapproved.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Know_Disapproved.stages.sold_alien_slave.label>
+  
+  <!-- EN: alien slave sold -->
+  <HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.label>раб-инопланетянин продан</HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.label>
+  <!-- EN: We sold an alien into slavery. We shouldn't have done that. -->
+  <HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.description>Мы продали инопланетянина в рабство. Мы не должны были этого делать.</HAR_Alien_SoldSlave_Know_Disapproved_Mood.stages.alien_slave_sold.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved.stages.enslaved_alien_prisoner.label>поработили заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Know_Disapproved.stages.enslaved_alien_prisoner.label>
+  
+  <!-- EN: alien prisoner enslaved -->
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.label>заключённый-инопланетянин порабощён</HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.label>
+  <!-- EN: We enslaved an alien. We shouldn't have done that. -->
+  <HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.description>Мы поработили инопланетянина. Мы не должны были этого делать.</HAR_Alien_EnslavedPrisoner_Know_Disapproved_Mood.stages.alien_prisoner_enslaved.description>
+  
+  <!-- EN: alien slaves in colony -->
+  <HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.label>рабы-инопланетяне в колонии</HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.label>
+  <!-- EN: We've got alien slaves. It means we're on the right path. -->
+  <HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.description>У нас есть рабы-инопланетяне. Это значит, что мы на правильном пути.</HAR_Alien_Slavery_Honorable_SlavesInColony.stages.alien_slaves_in_colony.description>
+  
+  <!-- EN: no alien slaves in colony -->
+  <HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.label>нет рабов-инопланетян в колонии</HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.label>
+  <!-- EN: Without alien slaves, nobody will respect us. -->
+  <HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.description>Без рабов-инопланетян никто не будет нас уважать.</HAR_Alien_Slavery_Honorable_NoSlavesInColony.stages.no_alien_slaves_in_colony.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.label>
+  <!-- EN: I sold an alien into slavery. It'll make people notice my stature. -->
+  <HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.description>Я {PAWN_gender ? продал : продала} инопланетянина в рабство. Это заставит людей заметить мой статус.</HAR_Alien_SoldSlave_Honorable.stages.sold_alien_slave.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>{OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.label>
+  <!-- EN: I took an alien into slavery. With no choice, they had to submit to me. -->
+  <HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>Я {PAWN_gender ? взял : взяла} инопланетянина в рабство. Без выбора, {PAWN_gender ? он : она} был{PAWN_gender ?  : а} вынужден{PAWN_gender ?  : а} подчиниться мне.</HAR_Alien_EnslavedPrisoner_Honorable.stages.enslaved_alien_prisoner.description>
+  
+  <!-- EN: sold alien slave -->
+  <HAR_Alien_SoldSlave_Know_Honorable.stages.sold_alien_slave.label>{OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_Alien_SoldSlave_Know_Honorable.stages.sold_alien_slave.label>
+  
+  <!-- EN: alien slave sold -->
+  <HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.label>раб-инопланетянин продан</HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.label>
+  <!-- EN: We sold an alien into slavery! A great display of our honor and power. -->
+  <HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.description>Мы продали инопланетянина в рабство! Великолепная демонстрация нашей чести и силы.</HAR_Alien_SoldSlave_Know_Honorable_Mood.stages.alien_slave_sold.description>
+  
+  <!-- EN: enslaved alien prisoner -->
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable.stages.enslaved_alien_prisoner.label>поработили заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner_Know_Honorable.stages.enslaved_alien_prisoner.label>
+  
+  <!-- EN: alien prisoner enslaved -->
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.label>заключённый-инопланетянин порабощён</HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.label>
+  <!-- EN: We enslaved an alien. Now they know our honor and power! -->
+  <HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.description>Мы поработили инопланетянина. Теперь они знают нашу честь и силу!</HAR_Alien_EnslavedPrisoner_Know_Honorable_Mood.stages.alien_prisoner_enslaved.description>
+  
+  <!-- ========== Xenophobia Trait ========== -->
+  
+  <!-- EN: xenophobe vs xenophile -->
+  <HAR_XenophobeVsXenophile.stages.xenophobe_vs_xenophile.label>ксенофоб против ксенофила</HAR_XenophobeVsXenophile.stages.xenophobe_vs_xenophile.label>
+  
+  <!-- EN: xenophile loves aliens -->
+  <HAR_XenophobiaVsAlien.stages.xenophile_loves_aliens.label>ксенофил любит инопланетян</HAR_XenophobiaVsAlien.stages.xenophile_loves_aliens.label>
+  <HAR_XenophobiaVsAlien.stages.xenophile_loves_aliens.description>ксенофил любит инопланетян</HAR_XenophobiaVsAlien.stages.xenophile_loves_aliens.description>
+  
+  <!-- EN: xenophobe hates aliens -->
+  <HAR_XenophobiaVsAlien.stages.xenophobe_hates_aliens.label>ксенофоб ненавидит инопланетян</HAR_XenophobiaVsAlien.stages.xenophobe_hates_aliens.label>
+  <HAR_XenophobiaVsAlien.stages.xenophobe_hates_aliens.description>ксенофоб ненавидит инопланетян</HAR_XenophobiaVsAlien.stages.xenophobe_hates_aliens.description>
+  
+  <!-- EN: alien loved by xenophile -->
+  <HAR_AlienVsXenophobia.stages.alien_loved_by_xenophile.label>инопланетянин любим ксенофилом</HAR_AlienVsXenophobia.stages.alien_loved_by_xenophile.label>
+  
+  <!-- EN: alien hated by xenophobe -->
+  <HAR_AlienVsXenophobia.stages.alien_hated_by_xenophobe.label>инопланетянин ненавидим ксенофобом</HAR_AlienVsXenophobia.stages.alien_hated_by_xenophobe.label>
+  
+</LanguageData>

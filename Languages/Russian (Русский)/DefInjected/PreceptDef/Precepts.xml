@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- ========== EatingAliens ========== -->
+  
+  <!-- EN: abhorrent -->
+  <HAR_EatingAliens_Abhorrent.label>отвратительно</HAR_EatingAliens_Abhorrent.label>
+  <!-- EN: Eating the corpse of another sentient species, even in times of starvation, is unthinkably grotesque. -->
+  <HAR_EatingAliens_Abhorrent.description>Поедание трупа другого разумного вида, даже во времена голода, является немыслимо отвратительным.</HAR_EatingAliens_Abhorrent.description>
+  
+  <!-- EN: disapproved -->
+  <HAR_EatingAliens_Disapproved.label>не одобряется</HAR_EatingAliens_Disapproved.label>
+  <!-- EN: Eating the corpse of another sentient species is something that should only be done under dire circumstances. -->
+  <HAR_EatingAliens_Disapproved.description>Поедание трупа другого разумного вида допустимо только в крайне тяжёлых обстоятельствах.</HAR_EatingAliens_Disapproved.description>
+  
+  <!-- EN: acceptable -->
+  <HAR_EatingAliens_Acceptable.label>приемлемо</HAR_EatingAliens_Acceptable.label>
+  <!-- EN: Meat from an alien species is no different from the meat of a muffalo. -->
+  <HAR_EatingAliens_Acceptable.description>Мясо инопланетного вида ничем не отличается от мяса муффало.</HAR_EatingAliens_Acceptable.description>
+  
+  <!-- EN: preferred -->
+  <HAR_EatingAliens_Preferred.label>предпочтительно</HAR_EatingAliens_Preferred.label>
+  <!-- EN: Alien meat is chalk full of important nutrients and calorically dense, there is little reason not to gravitate towards it. -->
+  <HAR_EatingAliens_Preferred.description>Мясо инопланетян богато важными питательными веществами и калориями, нет причин его избегать.</HAR_EatingAliens_Preferred.description>
+  <!-- EN: No alien meat for several days -->
+  <HAR_EatingAliens_Preferred.comps.1.description>Несколько дней без мяса инопланетян</HAR_EatingAliens_Preferred.comps.1.description>
+  
+  <!-- EN: required -->
+  <HAR_EatingAliens_RequiredStrong.label>обязательно</HAR_EatingAliens_RequiredStrong.label>
+  <!-- EN: Alien meat is preferable to the meat of any insentient creature, in fact, regular consumption should be encouraged. -->
+  <HAR_EatingAliens_RequiredStrong.description>Мясо инопланетян предпочтительнее мяса любого неразумного существа, более того, регулярное потребление следует поощрять.</HAR_EatingAliens_RequiredStrong.description>
+  <!-- EN: No alien meat for {HUMANMEATREQUIREDINTERVAL} days -->
+  <HAR_EatingAliens_RequiredStrong.comps.3.description>Без мяса инопланетян {HUMANMEATREQUIREDINTERVAL} дней</HAR_EatingAliens_RequiredStrong.comps.3.description>
+  
+  <!-- ========== AlienDating ========== -->
+  
+  <!-- EN: forbidden -->
+  <HAR_AlienDating_Prohibited.label>запрещено</HAR_AlienDating_Prohibited.label>
+  <!-- EN: Romancing aliens is absolutely off the table, and the thought of copulation with one is disgusting to the point of downright disgust. -->
+  <HAR_AlienDating_Prohibited.description>Романтические отношения с инопланетянами абсолютно недопустимы, а мысль о совокуплении с ними вызывает отвращение.</HAR_AlienDating_Prohibited.description>
+  
+  <!-- EN: horrible -->
+  <HAR_AlienDating_Horrible.label>ужасно</HAR_AlienDating_Horrible.label>
+  <!-- EN: The idea of mating with an alien is nothing short of ridiculous and there are plenty of reasons to not even entertain the idea. -->
+  <HAR_AlienDating_Horrible.description>Идея спаривания с инопланетянином просто смехотворна, и есть множество причин даже не рассматривать её.</HAR_AlienDating_Horrible.description>
+  <!-- EN: Dating an alien -->
+  <HAR_AlienDating_Horrible.comps.1.description>Встречаться с инопланетянином</HAR_AlienDating_Horrible.comps.1.description>
+  
+  <!-- EN: acceptable -->
+  <HAR_AlienDating_Acceptable.label>приемлемо</HAR_AlienDating_Acceptable.label>
+  <!-- EN: If an alien and oneself mesh well why would romance be out of the question? -->
+  <HAR_AlienDating_Acceptable.description>Если инопланетянин и вы хорошо ладите, почему бы романтике не быть возможной?</HAR_AlienDating_Acceptable.description>
+  
+  <!-- EN: preferred -->
+  <HAR_AlienDating_Preferred.label>предпочтительно</HAR_AlienDating_Preferred.label>
+  <!-- EN: Romance with aliens can be an exciting change of pace and should be encouraged. -->
+  <HAR_AlienDating_Preferred.description>Роман с инопланетянами может быть захватывающим разнообразием и должен поощряться.</HAR_AlienDating_Preferred.description>
+  
+  <!-- EN: honorable -->
+  <HAR_AlienDating_Honorable.label>почётно</HAR_AlienDating_Honorable.label>
+  <!-- EN: To take an alien's hand in love and dedication is both exhilarating and exotic and those who choose to do so should be respected for their open-mindedness. -->
+  <HAR_AlienDating_Honorable.description>Взять инопланетянина за руку с любовью и преданностью — это и волнующе, и экзотично, и тех, кто решается на это, следует уважать за их открытость.</HAR_AlienDating_Honorable.description>
+  
+  <!-- ========== AlienRaces ========== -->
+  
+  <!-- EN: abhorrent -->
+  <HAR_AlienRaces_Abhorrent.label>отвратительно</HAR_AlienRaces_Abhorrent.label>
+  <!-- EN: Xenos shouldn't even think of trying to make friends with our kind. They wish for nothing but our demise and we won't tolerate being around them. -->
+  <HAR_AlienRaces_Abhorrent.description>Ксеносы не должны даже думать о том, чтобы подружиться с нами. Они желают только нашей гибели, и мы не потерпим их присутствия.</HAR_AlienRaces_Abhorrent.description>
+  
+  <!-- EN: disliked -->
+  <HAR_AlienRaces_Horrible.label>неприязнь</HAR_AlienRaces_Horrible.label>
+  <!-- EN: Xenos are different from us - too different. We need to be watchful and keep them at arm's length. -->
+  <HAR_AlienRaces_Horrible.description>Ксеносы отличаются от нас — слишком сильно. Нам нужно быть бдительными и держать их на расстоянии вытянутой руки.</HAR_AlienRaces_Horrible.description>
+  
+  <!-- EN: neutral -->
+  <HAR_AlienRaces_Standard.label>нейтрально</HAR_AlienRaces_Standard.label>
+  <!-- EN: Xenos from beyond should be seen as no lesser or greater than us. -->
+  <HAR_AlienRaces_Standard.description>Ксеносов издалека следует считать не хуже и не лучше нас.</HAR_AlienRaces_Standard.description>
+  
+  <!-- EN: respected -->
+  <HAR_AlienRaces_Respected.label>уважение</HAR_AlienRaces_Respected.label>
+  <!-- EN: Xenos from beyond our home world deserve our admiration. -->
+  <HAR_AlienRaces_Respected.description>Ксеносы из-за пределов нашего родного мира заслуживают нашего восхищения.</HAR_AlienRaces_Respected.description>
+  
+  <!-- EN: exalted -->
+  <HAR_AlienRaces_Exalted.label>превознесение</HAR_AlienRaces_Exalted.label>
+  <!-- EN: Xenos from beyond our solar system are incredible, and we're blessed to serve the role as their cordial hosts. -->
+  <HAR_AlienRaces_Exalted.description>Ксеносы из-за пределов нашей солнечной системы невероятны, и мы благословлены служить им радушными хозяевами.</HAR_AlienRaces_Exalted.description>
+  
+  <!-- ========== AlienSlavery ========== -->
+  
+  <!-- EN: abhorrent -->
+  <HAR_AlienSlavery_Abhorrent.label>отвратительно</HAR_AlienSlavery_Abhorrent.label>
+  <!-- EN: Owning or trading alien beings is deeply evil. -->
+  <HAR_AlienSlavery_Abhorrent.description>Владение или торговля инопланетными существами — глубокое зло.</HAR_AlienSlavery_Abhorrent.description>
+  <!-- EN: Each alien slave in colony -->
+  <HAR_AlienSlavery_Abhorrent.comps.0.description>За каждого раба-инопланетянина в колонии</HAR_AlienSlavery_Abhorrent.comps.0.description>
+  <!-- EN: Someone sold an alien slave -->
+  <HAR_AlienSlavery_Abhorrent.comps.5.description>Кто-то {OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_AlienSlavery_Abhorrent.comps.5.description>
+  
+  <!-- EN: horrible -->
+  <HAR_AlienSlavery_Horrible.label>ужасно</HAR_AlienSlavery_Horrible.label>
+  <!-- EN: Owning or trading alien beings is a horrible thing. -->
+  <HAR_AlienSlavery_Horrible.description>Владение или торговля инопланетными существами — ужасное дело.</HAR_AlienSlavery_Horrible.description>
+  <!-- EN: Each alien slave in colony -->
+  <HAR_AlienSlavery_Horrible.comps.0.description>За каждого раба-инопланетянина в колонии</HAR_AlienSlavery_Horrible.comps.0.description>
+  <!-- EN: Someone sold an alien slave -->
+  <HAR_AlienSlavery_Horrible.comps.5.description>Кто-то {OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_AlienSlavery_Horrible.comps.5.description>
+  <!-- EN: Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Horrible.comps.6.description>Кто-то {OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_AlienSlavery_Horrible.comps.6.description>
+  
+  <!-- EN: disapproved -->
+  <HAR_AlienSlavery_Disapproved.label>не одобряется</HAR_AlienSlavery_Disapproved.label>
+  <!-- EN: Alien slavery is part of life, though it is extremely distasteful. -->
+  <HAR_AlienSlavery_Disapproved.description>Рабство инопланетян — часть жизни, хотя это крайне неприятно.</HAR_AlienSlavery_Disapproved.description>
+  <!-- EN: Each alien slave in colony -->
+  <HAR_AlienSlavery_Disapproved.comps.0.description>За каждого раба-инопланетянина в колонии</HAR_AlienSlavery_Disapproved.comps.0.description>
+  <!-- EN: Someone sold an alien slave -->
+  <HAR_AlienSlavery_Disapproved.comps.5.description>Кто-то {OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_AlienSlavery_Disapproved.comps.5.description>
+  <!-- EN: Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Disapproved.comps.6.description>Кто-то {OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_AlienSlavery_Disapproved.comps.6.description>
+  
+  <!-- EN: acceptable -->
+  <HAR_AlienSlavery_Acceptable.label>приемлемо</HAR_AlienSlavery_Acceptable.label>
+  <!-- EN: Slavery of alien races is a normal, unremarkable part of life. -->
+  <HAR_AlienSlavery_Acceptable.description>Рабство инопланетных рас — нормальная, ничем не примечательная часть жизни.</HAR_AlienSlavery_Acceptable.description>
+  
+  <!-- EN: honorable -->
+  <HAR_AlienSlavery_Honorable.label>почётно</HAR_AlienSlavery_Honorable.label>
+  <!-- EN: One who owns and trades alien slaves should be honored and respected. -->
+  <HAR_AlienSlavery_Honorable.description>Тот, кто владеет и торгует рабами-инопланетянами, должен быть почитаем и уважаем.</HAR_AlienSlavery_Honorable.description>
+  <!-- EN: Each alien slave in colony -->
+  <HAR_AlienSlavery_Honorable.comps.0.description>За каждого раба-инопланетянина в колонии</HAR_AlienSlavery_Honorable.comps.0.description>
+  <!-- EN: Someone sold an alien slave -->
+  <HAR_AlienSlavery_Honorable.comps.6.description>Кто-то {OTHERPAWN_gender ? продал : продала} раба-инопланетянина</HAR_AlienSlavery_Honorable.comps.6.description>
+  <!-- EN: Someone enslaved an alien prisoner -->
+  <HAR_AlienSlavery_Honorable.comps.7.description>Кто-то {OTHERPAWN_gender ? поработил : поработила} заключённого-инопланетянина</HAR_AlienSlavery_Honorable.comps.7.description>
+  
+</LanguageData>

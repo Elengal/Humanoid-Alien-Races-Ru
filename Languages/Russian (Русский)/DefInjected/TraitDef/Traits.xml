@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: xenophobe -->
+  <HAR_Xenophobia.degreeDatas.xenophobe.label>ксенофоб</HAR_Xenophobia.degreeDatas.xenophobe.label>
+  <!-- EN: [PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals. -->
+  <HAR_Xenophobia.degreeDatas.xenophobe.description>[PAWN_nameDef] ненавидит и не доверяет ксеносам. Для {PAWN_gender ? него : неё} они немногим лучше животных.</HAR_Xenophobia.degreeDatas.xenophobe.description>
+  
+  <!-- EN: xenophile -->
+  <HAR_Xenophobia.degreeDatas.xenophile.label>ксенофил</HAR_Xenophobia.degreeDatas.xenophile.label>
+  <!-- EN: [PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them. -->
+  <HAR_Xenophobia.degreeDatas.xenophile.description>[PAWN_nameDef] считает инопланетян экзотическими и интересными. {PAWN_gender ? Он был бы рад : Она была бы рада} узнать их лучше и не против завести с ними отношения.</HAR_Xenophobia.degreeDatas.xenophile.description>
+  
+</LanguageData>

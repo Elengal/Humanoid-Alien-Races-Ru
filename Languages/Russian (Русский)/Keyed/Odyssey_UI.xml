@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Change the displayed race\nThis can change allowed apparel -->
+  <HAR.OutfitStandRaceCommandDesc>Изменить отображаемую расу\nЭто может изменить разрешённую одежду</HAR.OutfitStandRaceCommandDesc>
+  
+  <!-- EN: Change the displayed body\nThis can change allowed apparel -->
+  <HAR.OutfitStandBodyCommandDesc>Изменить отображаемое тело\nЭто может изменить разрешённую одежду</HAR.OutfitStandBodyCommandDesc>
+  
+  <!-- EN: Change the displayed head -->
+  <HAR.OutfitStandHeadCommandDesc>Изменить отображаемую голову</HAR.OutfitStandHeadCommandDesc>
+  
+</LanguageData>
+

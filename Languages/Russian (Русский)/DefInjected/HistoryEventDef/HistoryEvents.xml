@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate alien meat -->
+  <HAR_AteAlienMeat.label>съесть мясо инопланетянина</HAR_AteAlienMeat.label>
+  
+  <!-- EN: butchered alien -->
+  <HAR_ButcheredAlien.label>разделать инопланетянина</HAR_ButcheredAlien.label>
+  
+  <!-- EN: ate non-alien food -->
+  <HAR_AteNonAlienFood.label>съесть не инопланетную еду</HAR_AteNonAlienFood.label>
+  
+  <!-- EN: begin romance with alien -->
+  <HAR_AlienDating_BeginRomance.label>начать роман с инопланетянином</HAR_AlienDating_BeginRomance.label>
+  
+  <!-- EN: share bed with alien -->
+  <HAR_AlienDating_SharedBed.label>разделить постель с инопланетянином</HAR_AlienDating_SharedBed.label>
+  
+  <!-- EN: in a relationship with alien -->
+  <HAR_AlienDating_Dating.label>в отношениях с инопланетянином</HAR_AlienDating_Dating.label>
+  
+  <!-- EN: sold slave -->
+  <HAR_Alien_SoldSlave.label>продать раба-инопланетянина</HAR_Alien_SoldSlave.label>
+  
+  <!-- EN: enslaved prisoner -->
+  <HAR_Alien_EnslavedPrisoner.label>поработить заключённого-инопланетянина</HAR_Alien_EnslavedPrisoner.label>
+  
+  <!-- EN: enslaved prisoner not previously enslaved -->
+  <HAR_Alien_EnslavedPrisonerNotPreviouslyEnslaved.label>поработить свободного заключённого-инопланетянина</HAR_Alien_EnslavedPrisonerNotPreviouslyEnslaved.label>
+  
+</LanguageData>

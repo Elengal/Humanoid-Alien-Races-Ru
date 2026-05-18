@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eating aliens -->
+  <HAR_EatingAliens.label>поедание инопланетян</HAR_EatingAliens.label>
+  
+  <!-- EN: dating aliens -->
+  <HAR_AlienDating.label>отношения с инопланетянами</HAR_AlienDating.label>
+  
+  <!-- EN: alien races -->
+  <HAR_AlienRaces.label>инопланетные расы</HAR_AlienRaces.label>
+  
+  <!-- EN: alien slavery -->
+  <HAR_AlienSlavery.label>рабство инопланетян</HAR_AlienSlavery.label>
+  
+</LanguageData>
